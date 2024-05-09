@@ -1,2 +1,28 @@
-.env
+# Arquivos de configuração do Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
 
+# Arquivos gerados automaticamente pelo Jupyter
+*.ipynb
+
+# Diretório de arquivos de saída gerados pelo Jupyter
+output/
+
+# Diretório de arquivos temporários gerados pelo Jupyter
+.ipynb_checkpoints/
+
+# Diretório de cache do Jupyter
+.jupyter/
+
+# Diretório de configuração do Jupyter
+.jupyter/
+
+# Diretório de ambiente virtual (se estiver usando)
+venv/
+.env/
+**/.env
+
+# Outros arquivos e diretórios que você deseja excluir
+
+
+**/*.log
