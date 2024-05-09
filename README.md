@@ -10,7 +10,7 @@ estudando tensorflow
 # Ambiente Docker com Jupyter e GitHub
 exemplo de arquivo docker-compose.yml já configurado
 
-txt
+```txt
 version: '3'
 
 services:
@@ -33,7 +33,7 @@ services:
       fi &&
       jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
       "
-
+```
 
 * desta forma temos um arquivo docker-compose.yml, onde ter um serviço baseado na imagem jupyter quay.io, 
 onde executa na porta 8888. 
