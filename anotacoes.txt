@@ -1,0 +1,9 @@
+alura
+
+
+TensorFlow: implementando um perceptron de múltiplas camadas (MLP)
+
+https://cursos.alura.com.br/course/tensorflow-implementando-perceptron-multiplas-camadas
+
+
+
