@@ -30,3 +30,7 @@ venv/
 .local/*
 .npm/*
 ipython/*
+.ipython/*
+
+.cache/*
+
