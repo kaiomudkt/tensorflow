@@ -2,9 +2,6 @@
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 
-# Arquivos gerados automaticamente pelo Jupyter
-*.ipynb
-
 # Diretório de arquivos de saída gerados pelo Jupyter
 output/
 
